@@ -15,3 +15,5 @@ if submitted:
 
 for i in range(1,11):
     st.write("2 X",i,"=",{2*i})
+
+    
